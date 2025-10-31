@@ -1,0 +1,12 @@
+---
+title: "New website"
+description: "Migration from Hugo to Quarto complete"
+author:
+  - name: Dave Wright
+date: 11-03-2024
+categories: [Quarto, Webdev] # self-defined categories
+image: quarto-logo.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Why switch

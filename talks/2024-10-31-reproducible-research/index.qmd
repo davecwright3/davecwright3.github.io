@@ -1,0 +1,24 @@
+---
+title: "Methods for reproducible computational research"
+description: "*If it’s not reproducible, it’s not science.*"
+author:
+  - name: Dave Wright
+date: 10-31-2024
+categories: [Reproducible Research, Tools] # self-defined categories
+image: figs/reproducibility.jpg 
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+[{{< fa tv >}} slides](https://davecwright3.github.io/reproducible-research-methods/#/title-slide) [{{< fa brands github >}} source code](https://github.com/davecwright3/reproducible-research-methods/)
+
+<iframe class="slides" src="https://davecwright3.github.io/reproducible-research-methods/"></iframe>
+
+
+
+### Abstract
+
+Published computational research should be reproducible today, tomorrow, and ten years from now. In this workshop, we will go over tools and practices you can employ to ensure that this is the case. Topics will include containerization, bit-for-bit reproduction of software environments, and software design practices for reproducible pipelines.
+
+### Acknowledgments {.appendix}
+
+Appendix A of [2104.12522](https://arxiv.org/pdf/2104.12522); Reproducible Research License [(RRL)](https://planets.ucf.edu/resources/reproducible-research/software-license/)
