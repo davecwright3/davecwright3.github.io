@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "talks/2024-10-31-reproducible-research/index.html",
+    "href": "talks/2024-10-31-reproducible-research/index.html",
+    "title": "Methods for reproducible computational research",
+    "section": "",
+    "text": "{{&lt; fa tv &gt;}} slides {{&lt; fa brands github &gt;}} source code\n\n\n\nAbstract\nPublished computational research should be reproducible today, tomorrow, and ten years from now. In this workshop, we will go over tools and practices you can employ to ensure that this is the case. Topics will include containerization, bit-for-bit reproduction of software environments, and software design practices for reproducible pipelines.\n\n\n\nAcknowledgments\n\nAppendix A of 2104.12522; Reproducible Research License (RRL)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Dave Wright",
+    "section": "",
+    "text": "I’m currently a Physics PhD student at Oregon State University.\n\n\nOregon State University | Corvallis OR | PhD Physics | 2023–current\nUniversity of Central Florida | Orlando FL | MSc Physics | 2021–2023\nUniversity of Central Florida | Orlando FL | BSc Mathematics and Physics | 2016–2021"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Dave Wright",
+    "section": "",
+    "text": "Oregon State University | Corvallis OR | PhD Physics | 2023–current\nUniversity of Central Florida | Orlando FL | MSc Physics | 2021–2023\nUniversity of Central Florida | Orlando FL | BSc Mathematics and Physics | 2016–2021"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "New website\n\n\n \n\n\nQuarto\n\nWebdev\n\n\n \n\nMigration from Hugo to Quarto complete\n\n\n\nNov 3, 2024\nDave Wright\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Methods for reproducible computational research\n\n\n \n\n\nReproducible Research\n\nTools\n\n\n \n\n*If it’s not reproducible, it’s not science.*\n\n\n\nOct 31, 2024\nDave Wright\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Test\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my site",
+    "section": "",
+    "text": "Welcome to my site\nI work at the intersection of computational astrophysics, gravitational wave astronomy, and cosmology. My research focuses on developing new methods to extract information about the early universe, supermassive black holes, and high-energy physics from gravitational waves.\nThis site is under construction."
+  },
+  {
+    "objectID": "posts/2024-11-03-quarto-migration/index.html",
+    "href": "posts/2024-11-03-quarto-migration/index.html",
+    "title": "New website",
+    "section": "",
+    "text": "Why switch"
+  }
+]
