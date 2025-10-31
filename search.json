@@ -4,7 +4,7 @@
     "href": "talks/2024-10-31-reproducible-research/index.html",
     "title": "Methods for reproducible computational research",
     "section": "",
-    "text": "{{&lt; fa tv &gt;}} slides {{&lt; fa brands github &gt;}} source code\n\n\n\nAbstract\nPublished computational research should be reproducible today, tomorrow, and ten years from now. In this workshop, we will go over tools and practices you can employ to ensure that this is the case. Topics will include containerization, bit-for-bit reproduction of software environments, and software design practices for reproducible pipelines.\n\n\n\nAcknowledgments\n\nAppendix A of 2104.12522; Reproducible Research License (RRL)"
+    "text": "slides  source code\n\n\n\nAbstract\nPublished computational research should be reproducible today, tomorrow, and ten years from now. In this workshop, we will go over tools and practices you can employ to ensure that this is the case. Topics will include containerization, bit-for-bit reproduction of software environments, and software design practices for reproducible pipelines.\n\n\n\nAcknowledgments\n\nAppendix A of 2104.12522; Reproducible Research License (RRL)"
   },
   {
     "objectID": "about.html",
