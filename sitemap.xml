@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://davecwright3.github.io/talks/2024-10-31-reproducible-research/index.html</loc>
-    <lastmod>2025-10-31T05:29:50.973Z</lastmod>
+    <loc>https://davecwright3.github.io/talks/2026-04-24-intro-to-python/index.html</loc>
+    <lastmod>2026-04-24T20:46:56.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://davecwright3.github.io/talks/2026-04-24-strauss/index.html</loc>
+    <lastmod>2026-04-24T20:57:11.906Z</lastmod>
   </url>
   <url>
     <loc>https://davecwright3.github.io/about.html</loc>
@@ -27,5 +31,9 @@
   <url>
     <loc>https://davecwright3.github.io/posts/2024-11-03-quarto-migration/index.html</loc>
     <lastmod>2025-10-31T05:29:50.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://davecwright3.github.io/talks/2024-10-31-reproducible-research/index.html</loc>
+    <lastmod>2025-10-31T05:29:50.973Z</lastmod>
   </url>
 </urlset>

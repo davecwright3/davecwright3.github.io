@@ -8,6 +8,8 @@
   {
     "listing": "/talks.html",
     "items": [
+      "/talks/2026-04-24-strauss/index.html",
+      "/talks/2026-04-24-intro-to-python/index.html",
       "/talks/2024-10-31-reproducible-research/index.html"
     ]
   },

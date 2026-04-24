@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "talks/2024-10-31-reproducible-research/index.html",
-    "href": "talks/2024-10-31-reproducible-research/index.html",
-    "title": "Methods for reproducible computational research",
+    "objectID": "talks/2026-04-24-intro-to-python/index.html",
+    "href": "talks/2026-04-24-intro-to-python/index.html",
+    "title": "A Brief Introduction to Python",
     "section": "",
-    "text": "slides  source code\n\n\n\nAbstract\nPublished computational research should be reproducible today, tomorrow, and ten years from now. In this workshop, we will go over tools and practices you can employ to ensure that this is the case. Topics will include containerization, bit-for-bit reproduction of software environments, and software design practices for reproducible pipelines.\n\n\n\nAcknowledgments\n\nAppendix A of 2104.12522; Reproducible Research License (RRL)"
+    "text": "slides\n\n\n\nAbstract\nAn introductory survey of Python for students with little or no prior programming experience. Covers the history of the language, the interactive shell, values and types, variables and expressions, the built-in data structures (lists, dictionaries, tuples, sets), and a short set of live demos."
+  },
+  {
+    "objectID": "talks/2026-04-24-strauss/index.html",
+    "href": "talks/2026-04-24-strauss/index.html",
+    "title": "strauss: A Python package for turning data into sound",
+    "section": "",
+    "text": "slides  paper (arXiv:2311.16847)  strauss source\n\n\n\nAbstract\nAn overview of strauss (Trayford & Harrison, ICAD 2023), an open-source Python package for sonification. The talk walks through the package’s motivation — filling the gap between specialised one-trick sonification tools and full audio workstations — and its modular five-stage pipeline (Sources, Score, Generator, Channels, Sonification). Three example applications from the paper are played back from the slides: five different sonifications of a single galaxy spectrum, a bivariate sonification of a galaxy’s 13 Gyr formation history, and the Stars Appearing VR piece used in the Audible Universe planetarium show.\n\n\n\nAcknowledgments\n\nPrimary reference: Trayford, J. W. & Harrison, C. M., Introducing strauss: A Flexible Sonification Python Package, Proc. ICAD 2023, arXiv:2311.16847. Media files from the paper’s companion dataset at data.ncl.ac.uk/articles/22241182."
   },
   {
     "objectID": "about.html",
@@ -25,21 +32,21 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "New website\n\n\n \n\n\nQuarto\n\nWebdev\n\n\n \n\nMigration from Hugo to Quarto complete\n\n\n\nNov 3, 2024\nDave Wright\n\n\n\n\n\n\n\nNo matching items"
+    "text": "New website\n\n\n\nQuarto\n\nWebdev\n\n\n\nMigration from Hugo to Quarto complete\n\n\n\n\n\nNov 3, 2024\n\n\nDave Wright\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Methods for reproducible computational research\n\n\n \n\n\nReproducible Research\n\nTools\n\n\n \n\n*If it’s not reproducible, it’s not science.*\n\n\n\nOct 31, 2024\nDave Wright\n\n\n\n\n\n\n\nNo matching items"
+    "text": "strauss: A Python package for turning data into sound\n\n\n\nSonification\n\nPython\n\nAstronomy\n\n\n\nA tour of strauss — its motivation, its five-stage pipeline, and three example sonifications (a galaxy spectrum, a galaxy’s formation history, and 2500 stars in VR).\n\n\n\n\n\nApr 24, 2026\n\n\nDave Wright\n\n\n\n\n\n\n\n\n\n\n\n\nA Brief Introduction to Python\n\n\n\nPython\n\nTeaching\n\n\n\nWhat Python is, how it differs from other languages, and the pieces of the language you need to start writing useful programs.\n\n\n\n\n\nApr 24, 2026\n\n\nDave Wright\n\n\n\n\n\n\n\n\n\n\n\n\nMethods for reproducible computational research\n\n\n\nReproducible Research\n\nTools\n\n\n\nIf it’s not reproducible, it’s not science.\n\n\n\n\n\nOct 31, 2024\n\n\nDave Wright\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Test\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Test\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -54,5 +61,12 @@
     "title": "New website",
     "section": "",
     "text": "Why switch"
+  },
+  {
+    "objectID": "talks/2024-10-31-reproducible-research/index.html",
+    "href": "talks/2024-10-31-reproducible-research/index.html",
+    "title": "Methods for reproducible computational research",
+    "section": "",
+    "text": "slides  source code\n\n\n\nAbstract\nPublished computational research should be reproducible today, tomorrow, and ten years from now. In this workshop, we will go over tools and practices you can employ to ensure that this is the case. Topics will include containerization, bit-for-bit reproduction of software environments, and software design practices for reproducible pipelines.\n\n\n\nAcknowledgments\n\nAppendix A of 2104.12522; Reproducible Research License (RRL)"
   }
 ]
